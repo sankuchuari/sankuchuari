@@ -6,26 +6,27 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 💻 Technologies & Languages
 
-<!-- 使用原生兼容且稳定的暗黑主题卡片，左右对齐 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankuchuari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankuchuari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
+```
+
+[ Languages ] : C++  |  Rust  |  Python  |  HTML  |  TeX
+[ Toolsets  ] : Git  |  VS Code  |  macOS   |  Linux
+
+```
 
 ---
 
-### 💻 Technologies & Tools
+### 📌 Highlights
 
-**Languages:**  
-`C++` &nbsp; `Rust` &nbsp; `Python` &nbsp; `HTML` &nbsp; `TeX`
-
-**Tools & Environments:**  
-`Git` &nbsp; `VS Code` &nbsp; `macOS` &nbsp; `Linux`
+- 🦀 **Rust**: Building fast & reliable network services
+- 🎮 **Minecraft**: Modpack development & functional expansions
+- 🌐 **Web**: Clean UIs & lightweight message boards
 
 ---
 
 *✨ Powered by curiosity & constant learning.*
 
 </div>
+
