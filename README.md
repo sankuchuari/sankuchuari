@@ -1,32 +1,29 @@
-<div align="center">
-
 # Hi there, I'm sankuchuari 👋
 
 > *A developer passionate about building clean, efficient, and thoughtful tools.*
 
 ---
 
-### 💻 Technologies & Languages
+### 📈 GitHub Profile Summary & Language Stats
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankuchuari&theme=dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankuchuari&theme=dark" width="48%" />
+</div>
 
-```
+<br/>
 
-[ Languages ] : C++  |  Rust  |  Python  |  HTML  |  TeX
-[ Toolsets  ] : Git  |  VS Code  |  macOS   |  Linux
-
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankuchuari&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ---
 
-### 📌 Highlights
+### 💻 Technologies & Tools
 
-- 🦀 **Rust**: Building fast & reliable network services
-- 🎮 **Minecraft**: Modpack development & functional expansions
-- 🌐 **Web**: Clean UIs & lightweight message boards
+- **Languages:** C++, Rust, Python, HTML, TeX
+- **Tools & Environments:** Git, Visual Studio Code, macOS / Linux
 
 ---
 
 *✨ Powered by curiosity & constant learning.*
-
-</div>
-
